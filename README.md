@@ -8,8 +8,8 @@ This project is **my personal blog**. Doing it i learned about **heroku** applic
 ## API
 The API was made using **strapi <3**, the best creator of API`s and content manager for ever, connected to **mongo database** hosted on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
 
-- [Documentation](https://infinite-lake-82033.herokuapp.com/documentation/v1.0.0)
-- [Dashboard(CMS)](https://infinite-lake-82033.herokuapp.com/)
+- [Documentation](https://api-blog-lucas.herokuapp.com/documentation/v1.0.0)
+- [Dashboard(CMS)](https://api-blog-lucas.herokuapp.com/)
 - Version: 1.0.0
 
 ---
@@ -26,5 +26,6 @@ I did choose mongoDB in this project because of that article: ["Database Compari
 ## React application
 **React** and **React Native** is my loves <3 without further explanation :*
 
+- [Navigate to site](https://lucas-santos-dev.herokuapp.com/)
 - Hosted on: [Heroku](https://herolu.com)
 - Version: 1.0.0
